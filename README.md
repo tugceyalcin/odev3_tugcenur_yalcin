@@ -3,4 +3,4 @@ Personnel nesnesi xml formatında oluşturuldu.
 Personnel nesnesi yaml formatında oluşturuldu.
 Personnel nesnesi json formatında oluşturuldu.
 
-İlgili dosyalara main>java dosyasının altından erişebilirsiniz.
+İlgili dosyalara src>main>java dosyasının altından erişebilirsiniz.
