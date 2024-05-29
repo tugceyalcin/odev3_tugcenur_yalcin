@@ -5,7 +5,6 @@ public class personnel {
     private String department;
     private String project;
     private int salary;
-
     private int experience;
 
 
